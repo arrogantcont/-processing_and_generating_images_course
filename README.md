@@ -1,2 +1,6 @@
-# -processing_and_generating_images_course
-Repo for AI Talent Hub processing and generating images course
+# README master ветки
+ФИО: Ярмухаметов Юрий Алексеевич
+
+Предмет: Обработка и генерация изображений
+Задача: Детекция объектов
+Датасет: tba
