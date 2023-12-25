@@ -1,0 +1,14 @@
+description: Ultralytics YOLOv8_default model trained on /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/processing_gan/processing_and_generating_images_course/CSGO-TRAIN-YOLO-V5-5/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-12-25T02:41:24.558087'
+version: 8.0.229
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: CT
+  1: T
