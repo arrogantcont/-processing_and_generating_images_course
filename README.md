@@ -12,9 +12,10 @@
 1. Склонироать репозиторий
 
 2. Установить зависимости
-     pip install -r requirements.txt
-
-3. Запустить 
+```
+pip install -r requirements.txt
+```
+4. Запустить 
 
 ### Описание задачи
 
