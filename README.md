@@ -15,7 +15,7 @@
 ```
 pip install -r requirements.txt
 ```
-4. Запустить 
+4. Запустить ![Notebook](yolov8_experiments.ipynb)
 
 ### Описание задачи
 
